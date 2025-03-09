@@ -45,17 +45,14 @@ Available on Hugging Face: [NP-NET/mask-oven-wiki](https://huggingface.co/datase
 
 
 ## 📌 Example
-<p align="center">
-  <img src="assets/example.png" alt="Example" width="70%">
-</p>
 
 ```json
 {
-  "images": [{"id": "oven_04925844", "file_name": "/04/oven_04925844.jpg", "height": 333, "width": 500}],
+    "images": [{"id": "oven_04925844", "file_name": "/04/oven_04925844.jpg", "height": 333, "width": 500}],
   "categories": [{"id": "Q388450", "name": "Crow"}],
   "annotations": [
-    {
-      "id": "oven_query_val_00000107",
+      {
+          "id": "oven_query_val_00000107",
       "image_id": "oven_04925844",
       "category_id": "Q388450",
       "segmentation": [{"size": [333, 500], "counts": "..."}, ...],
@@ -68,7 +65,9 @@ Available on Hugging Face: [NP-NET/mask-oven-wiki](https://huggingface.co/datase
   ]
 }
 ```
-
+<p align="center">
+    <img src="assets/example.png" alt="Example" width="100%">
+</p>
 
 ## 🚀 Usage
 ### Step 1: Install Dependencies
