@@ -5,7 +5,7 @@
 <div align="left">
 
 <p align="left">
-    <a href="https://arxiv.org/abs/2302.11154"><img src="https://img.shields.io/badge/arXiv-2302.11154-b31b1b.svg?style=flat"></a>
+    <a href="https://arxiv.org/abs/2412.13614"><img src="https://img.shields.io/badge/arXiv-2412.13614-b31b1b.svg?style=flat"></a>
     <a href="https://huggingface.co/datasets/NP-NET/mask-oven-wiki"><img alt="Pretrained Models" src="https://img.shields.io/badge/🤗HuggingFace-Dataset-blue"></a>
     <img src="https://img.shields.io/badge/AAAI-2025-orange">
     <img src="https://img.shields.io/github/stars/NP-NET-research/PL-VEL?style=social">
